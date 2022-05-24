@@ -1,0 +1,15 @@
+.css-o69gx8-MuiCardMedia-root{
+    height: 0% !important;
+    width: 60% !important;
+    margin-left: 20%;
+}
+.css-1ri6ub7-MuiPaper-root-MuiCard-root{
+    margin-left: 37%;
+}
+.animate__animated.animate__flash.animate__repeat-2	 {
+    --animate-duration: 5s;
+    color: black;
+    --animate-delay: 0.9s;
+    --animate__fast:	800ms;
+    --animate-repeat: 150;
+}
