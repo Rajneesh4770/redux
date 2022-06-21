@@ -13,3 +13,6 @@
     --animate__fast:	800ms;
     --animate-repeat: 150;
 }
+.main-div{
+    padding-top:15px;
+}

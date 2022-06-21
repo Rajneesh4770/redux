@@ -12,7 +12,7 @@ function Home(props) {
     <h1 className="animate__animated animate__flash animate__repeat-2"><center> ! Flash sale </center></h1>
     
     
-    <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 345 }} className="main-div">
       <CardMedia
         component="img"
         height="140"
